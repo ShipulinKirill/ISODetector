@@ -1,0 +1,18 @@
+﻿  ISOD.cpp
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(10,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(10,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(10,21): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.cpp(246,38): error C2039: "bitmap": не является членом "templateOut".
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(9): message : см. объявление "templateOut"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.cpp(246,8): error C2660: WriteFile: функция не принимает 4 аргументов
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(1186,1): message : см. объявление "WriteFile"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.cpp(310,1): error C2039: "BOOL": не является членом "Isod".
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.h(10): message : см. объявление "Isod"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.cpp(307,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "Isod::GetDetect"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.cpp(307,21): error C2377: BOOL: переопределение; typedef нельзя перегрузить другим символом
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(157): message : см. объявление "BOOL"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISOD.cpp(311,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  ISODetector.cpp
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(10,13): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(10,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Кирилл\Desktop\ISODetector\ISODetector\ISODconsts.h(10,21): error C2238: непредвиденные лексемы перед ";"
